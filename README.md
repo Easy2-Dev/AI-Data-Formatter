@@ -16,8 +16,8 @@ An AI-driven data formatting tool designed to process JSON data for various appl
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/ai-data-formatter.git
-    cd ai-data-formatter
+    git clone https://github.com/Easy2-Dev/AI-Data-Formatter.git
+    cd AI-Data-Formatter
     ```
 
 2. **Install dependencies**:
@@ -47,7 +47,7 @@ An AI-driven data formatting tool designed to process JSON data for various appl
 1. **Place Input JSON Files**: Place the JSON files you want to process in the `input` directory.
 2. **Run the Script**:
     ```bash
-    python process_json.py
+    python main.py
     ```
 3. **View Processed Output**: Processed JSON files will be saved in the `output` directory with the same file names as the input files.
 
